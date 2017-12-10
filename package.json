@@ -1,0 +1,13 @@
+{
+  "name": "react-native-camera-sample",
+  "version": "1.0.0",
+  "dependencies": {
+    "react-native-camera": "^0.12.0",
+    "react-native-camera-ios-enable": "^1.1.0",
+    "react-native-photolibrary-ios-enable": "^1.1.0",
+    "react-native-runios-withdevteam": "^1.2.0"
+  },
+  "devDependencies": {
+    "react-native-sample": "^1.1.0"
+  }
+}
